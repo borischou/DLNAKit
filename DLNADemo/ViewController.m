@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import <SVDLNA.h>
+#import <DLNAKit.h>
 
 #define dispatch_main_async_safe(block)\
 if ([NSThread isMainThread]) {\
